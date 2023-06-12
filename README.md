@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @b0bmann
 - 👀 I’m interested in ... Data Analytics
 - 🌱 I’m currently learning ... Python / Pandas
-- 💞️ I’m looking to collaborate on ... (coming soon)
+- 💞️ I’m looking to collaborate on ... Gaming
 - 📫 How to reach me ... (coming soon)
 
 <!---
